@@ -12,8 +12,24 @@
 
 ## Structural Patterns
 
-* [Page 2](structural-patterns/page-2.md)
+* [Adapter](structural-patterns/adapter.md)
+* [Bridge](structural-patterns/bridge.md)
+* [Composite](structural-patterns/composite.md)
+* [Decorator](structural-patterns/decorator.md)
+* [Facade](structural-patterns/facade.md)
+* [Flyweight](structural-patterns/flyweight.md)
+* [Proxy](structural-patterns/proxy.md)
 
 ## Behavioral Patterns
 
-* [Page 3](behavioral-patterns/page-3.md)
+* [Chain of responsibility](behavioral-patterns/chain-of-responsibility.md)
+* [Command](behavioral-patterns/command.md)
+* [Interpreter](behavioral-patterns/interpreter.md)
+* [Iterator](behavioral-patterns/iterator.md)
+* [Mediator](behavioral-patterns/mediator.md)
+* [Memento](behavioral-patterns/memento.md)
+* [Observer](behavioral-patterns/observer.md)
+* [State](behavioral-patterns/state.md)
+* [Strategy](behavioral-patterns/strategy.md)
+* [Template method](behavioral-patterns/template-method.md)
+* [Visitor](behavioral-patterns/visitor.md)
