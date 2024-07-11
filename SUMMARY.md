@@ -4,7 +4,11 @@
 
 ## Creational Patterns
 
-* [Page 1](creational-patterns/page-1.md)
+* [Abstract Factory](creational-patterns/abstract-factory.md)
+* [Builder](creational-patterns/builder.md)
+* [Factory](creational-patterns/factory.md)
+* [Prototype](creational-patterns/prototype.md)
+* [Singleton](creational-patterns/singleton.md)
 
 ## Structural Patterns
 
